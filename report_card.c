@@ -31,4 +31,5 @@ int get_maxprice(struct knapsack *knapsack_list, struct jewelry *jewelry)
 
 int main(int argc, const char **argv)
 {
+	printf("Test");
 }
